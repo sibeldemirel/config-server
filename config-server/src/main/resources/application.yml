@@ -7,6 +7,6 @@ spring:
       server:
       # Pour un repo public
         git:
-          uri: https://github.com/mohamedutopios/server-config
+          uri: https://github.com/sibeldemirel/config-server
           clone-on-start: true
           default-label: master
